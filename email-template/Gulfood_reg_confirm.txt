@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <title>GULFOOD 2026 Registration PDF</title>
+    
+    <!--[if mso]>
+    <style type="text/css">
+        table {border-collapse: collapse; border-spacing: 0; margin: 0;}
+        div, td {padding: 0;}
+        div {margin: 0 !important;}
+    </style>
+    <noscript>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+    </noscript>
+    <![endif]-->
+    
+    <style type="text/css">
+        /* Client-specific Styles */
+        #outlook a {padding: 0;}
+        body, table, td, a {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+        table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+        img {-ms-interpolation-mode: bicubic;}
+        
+        /* Reset styles */
+        img {border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;}
+        table {border-collapse: collapse !important;}
+        body {height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important;}
+        
+        /* iOS Blue Links */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        
+        /* Mobile styles */
+        @media only screen and (max-width: 600px) {
+            .mobile-hide {display: none !important;}
+            .mobile-center {text-align: center !important;}
+            .mobile-full-width {width: 100% !important; max-width: 100% !important;}
+            .container {width: 100% !important; max-width: 100% !important;}
+            .mobile-padding {padding: 10px !important;}
+            .mobile-padding-lr {padding-left: 10px !important; padding-right: 10px !important;}
+        }
+    </style>
+</head>
+<body style="margin: 0 !important; padding: 0 !important; background-color: #f4f4f4;">
+
+    <!-- Hidden Preheader Text -->
+    <div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; font-family: Arial, sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+        Your GULFOOD 2026 registration has been successful!
+    </div>
+
+    <!-- Email Wrapper -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+        <tr>
+            <td bgcolor="#f4f4f4" align="center" style="padding: 10px 0;">
+                
+                <!--[if (gte mso 9)|(IE)]>
+                <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+                <tr>
+                <td align="center" valign="top" width="600">
+                <![endif]-->
+                
+                <!-- Main Container -->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; background-color: #ffffff;" class="container">
+                    
+                    <!-- Header Banner -->
+                    <tr>
+                        <td align="center" style="padding: 0;">
+                            <img src="https://veuz.com.sa/glf-banner/banner-visitor-portal-reg.jpg" alt="Gulfood" width="600" style="display: block; width: 100%; max-width: 600px; height: auto; font-family: Arial, sans-serif; font-size: 16px; line-height: 20px; color: #333333;" class="mobile-full-width">
+                        </td>
+                    </tr>
+                    
+                    <!-- Congratulations Section -->
+                    <tr>
+                        <td style="padding: 30px 20px 20px 20px;" class="mobile-padding">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; color: #000000; line-height: 26px; padding-bottom: 5px;">
+                                        Congratulations {{name|title}},
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; color: #000000; line-height: 26px;">
+                                        Your registration has been successful!
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Thank you message -->
+                    <tr>
+                        <td style="padding: 0 20px 20px 20px;" class="mobile-padding">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 14px; line-height: 22px; color: #333333; padding-bottom: 15px;">
+                                        Thank you for registering to attend GULFOOD 2026. Please find your registration details below:
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 14px; line-height: 22px; color: #333333;">
+                                        <span style="color: #ff0000; font-weight: bold;">Important:</span> <em>You will receive your final entry badge a week prior to the show on your registered email id. This email is only a confirmation and cannot be used to access the event.</em>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Registration Summary Header -->
+                    <tr>
+                        <td style="padding: 0 20px;" class="mobile-padding-lr">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #011132;">
+                                <tr>
+                                    <td align="center" style="padding: 15px; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #ffffff;">
+                                        YOUR REGISTRATION SUMMARY
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Registration Details Box -->
+                    <tr>
+                        <td style="padding: 0 20px 20px 20px;" class="mobile-padding">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 3px solid #011132; border-top: 0;">
+                                
+                                <!-- URN -->
+                                <tr>
+                                    <td align="center" style="padding: 15px; border-bottom: 1px solid #D9D9D9; font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; color: #000000;">
+                                        Unique Registration Number (URN): {{ticket_id}}
+                                    </td>
+                                </tr>
+                                
+                                <!-- QR Code -->
+                                <tr>
+                                    <td align="center" style="padding: 20px; border-bottom: 1px solid #D9D9D9;">
+                                        <img src="{{qrcode_url}}" alt="QR Code" width="80" height="80" style="display: block; border: 0;">
+                                    </td>
+                                </tr>
+                                
+                                <!-- User Details -->
+                                <tr>
+                                    <td style="padding: 20px;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td style="padding-bottom: 8px;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                        <tr>
+                                                            <td width="120" style="font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; color: #000000; vertical-align: top;">
+                                                                Badge Category:
+                                                            </td>
+                                                            <td style="font-family: Arial, sans-serif; font-size: 13px; color: #333333;">
+                                                                {{ticket_category|upper|default:''}}
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-bottom: 8px;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                        <tr>
+                                                            <td width="120" style="font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; color: #000000; vertical-align: top;">
+                                                                Full Name:
+                                                            </td>
+                                                            <td style="font-family: Arial, sans-serif; font-size: 13px; color: #333333;">
+                                                                {{name|upper|default:''}}
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                        <tr>
+                                                            <td width="120" style="font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; color: #000000; vertical-align: top;">
+                                                                Company Name:
+                                                            </td>
+                                                            <td style="font-family: Arial, sans-serif; font-size: 13px; color: #333333;">
+                                                                {{company_name|upper|default:''}}
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- What You Should Know -->
+                    <tr>
+                        <td style="padding: 0 20px 20px 20px;" class="mobile-padding">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 18px; color: #52acf4; font-weight: bold; padding-bottom: 20px;">
+                                        Here's What You Should Know:
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 10px;">
+                                        • A Print@Home badge will be sent to your registered email address a week before the show. Once received, please print this badge and bring it with you, as that will give you direct access to the event.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 10px;">
+                                        • This email cannot be used to enter the event and is only a confirmation that we have successfully registered your details.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 20px;">
+                                        • Each badge is valid for only one attendee and is non-transferable. The badge-holder will have to present a valid photo identification to access the event.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 14px; color: #52acf4; font-weight: bold; padding-bottom: 15px;">
+                                        Your badge can be used to access:
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 10px;">
+                                        • GULFOOD taking place from 26-30 January 2026 at Dubai World Trade Centre & Expo City.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 10px;">
+                                        • All event features including: The FoodTech Summit, Innovation Tours, Business Matchmaking Programme, Innovation Awards, and more.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333;">
+                                        • You will be notified once the official event app goes LIVE. Download the app to connect easily with exhibitors, browse products of interest, check various feature agendas, build your schedule, and find your way around the show.
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Visa Information Section -->
+                    <tr>
+                        <td style="padding: 0 20px 20px 20px;" class="mobile-padding">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f8f8f8;">
+                                <tr>
+                                    <td style="padding: 20px;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td style="font-family: Arial, sans-serif; font-size: 14px; color: #52acf4; font-weight: bold; padding-bottom: 15px;">
+                                                    Visa Information
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 15px;">
+                                                    {% if visa_required %}
+                                                    As requested during registration, your visa invitation letter is now ready. Please <strong><a href="{{visa_url}}" target="_blank" style="color: #000000;">click here</a></strong> to download your visa invitation letter.
+                                                    {% else %}
+                                                    If you require assistance with your visa invitation letter, please submit your request by <strong><a href="{{apply_visa_url}}" target="_blank" style="color: #000000;">clicking here</a></strong>.
+                                                    {% endif %}
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333; padding-bottom: 20px;">
+                                                    <span style="color: #ff0000; font-weight: bold;">Please note:</span> <em>This is only an invitation letter and does not guarantee the issuance of a visa. Visa approval is solely at the discretion of UAE immigration authorities</em>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="padding-bottom: 25px;">
+                                                    <!--[if mso]>
+                                                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" style="height:40px; v-text-anchor:middle; width:300px;" arcsize="50%" stroke="f" fillcolor="#011132">
+                                                    <w:anchorlock/>
+                                                    <center>
+                                                    <![endif]-->
+                                                    {% if visa_required %}
+                                                    <a href="{{visa_url}}" target="_blank" style="background-color: #011132; color: #ffffff; display: inline-block; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; width: 300px; -webkit-text-size-adjust: none; border-radius: 20px;">DOWNLOAD YOUR VISA INVITATION LETTER</a>
+                                                    {% else %}
+                                                    <a href="{{apply_visa_url}}" target="_blank" style="background-color: #011132; color: #ffffff; display: inline-block; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; width: 300px; -webkit-text-size-adjust: none; border-radius: 20px;">SUBMIT YOUR VISA INVITATION LETTER REQUEST</a>
+                                                    {% endif %}
+                                                    <!--[if mso]>
+                                                    </center>
+                                                    </v:roundrect>
+                                                    <![endif]-->
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="font-family: Arial, sans-serif; font-size: 14px; color: #52acf4; font-weight: bold; padding-bottom: 15px;">
+                                                    Event Information & Show Timings:
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="font-family: Arial, sans-serif; font-size: 13px; line-height: 20px; color: #333333;">
+                                                    26th – 29th January 2026, 10:00 am to 6:00 pm.<br>
+                                                    30th January 2026, 10:00 am to 5:00 pm.<br><br>
+                                                    Venue: <strong>Dubai World Trade Centre & Expo City,</strong> Dubai, United Arab Emirates
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;" class="mobile-padding">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td align="center" style="font-family: Arial, sans-serif; font-size: 16px; color: #52acf4; font-weight: bold; padding-bottom: 10px;">
+                                        We look forward to seeing you!
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="font-family: Arial, sans-serif; font-size: 13px; color: #333333; padding-bottom: 20px;">
+                                        Need assistance? Please email <a href="mailto:support@gulfood.com" style="color: #0000ff; text-decoration: none;">support@gulfood.com</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="font-family: Arial, sans-serif; font-size: 16px; color: #52acf4; font-weight: bold; padding-bottom: 15px;">
+                                        Connect Us On:
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <table border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td style="padding: 0 8px;">
+                                                    <a href="https://www.instagram.com/Gulfood/" target="_blank" style="text-decoration: none;">
+                                                        <img src="https://d1dodhresg8q6o.cloudfront.net/staticfiles/social/instagram.png" alt="Instagram" width="32" height="32" style="display: block; border: 0;">
+                                                    </a>
+                                                </td>
+                                                <td style="padding: 0 8px;">
+                                                    <a href="https://www.linkedin.com/company/gulfood?" target="_blank" style="text-decoration: none;">
+                                                        <img src="https://d1dodhresg8q6o.cloudfront.net/staticfiles/social/linkedin.png" alt="LinkedIn" width="32" height="32" style="display: block; border: 0;">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer Banner -->
+                    <tr>
+                        <td align="center" style="padding: 0;">
+                            <img src="https://veuz.com.sa/glf-banner/main-footer.jpg" alt="Footer" width="600" style="display: block; width: 100%; max-width: 600px; height: auto; font-family: Arial, sans-serif; font-size: 16px; line-height: 20px; color: #333333;" class="mobile-full-width">
+                        </td>
+                    </tr>
+                    
+                </table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

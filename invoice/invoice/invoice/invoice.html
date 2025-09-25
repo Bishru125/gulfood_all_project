@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tax Invoice - Reference Number: 702863</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+    font-family: "Noto Serif", serif; 
+  }
+
+        .invoice-container {
+            width: 210mm;
+            min-height: 297mm;
+            background: white;
+            margin: 0 auto;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            font-size: 12px;
+            line-height: 1.4;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .reference-number {
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 20px;
+            font-weight: 400;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .info-table td {
+            padding: 8px 8px 8px 0;
+            vertical-align: top;
+                        font-size: 13px;
+                        font-weight: 400;
+                        color: #666;
+
+        }
+
+        .info-table .entry {
+            font-weight: 700;
+                                    color: #333;
+
+        }
+
+        .transaction-header {
+            color: #666;
+            text-align: left;
+            padding: 10px 10px 10px 0;
+            font-weight: 700;
+            font-size: 13px;
+        }
+
+        .transaction-table td {
+            padding: 8px 8px 8px 0;
+        }
+
+        .transaction-table .entry {
+            font-weight: bold;
+            width: 25%;
+        }
+
+        .items-header {
+            background-color: #002d5b;
+            color: white;
+            text-align: center;
+            padding: 5px;
+            font-weight: bold;
+            font-size: 14px;
+            margin: 30px 0 0 0;
+        }
+
+        .items-table {
+            margin-top: 10px;
+        }
+
+        .items-table th {
+            background-color: #002d5b;
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .items-table td {
+            padding: 5px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        .items-table .description {
+            text-align: left;
+        }
+
+        .totals-table {
+            width: 50%;
+            margin-left: auto;
+        }
+
+        .totals-table td {
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+
+        .totals-table .entry {
+            background-color: #002d5b;
+            color: white;
+            font-weight: bold;
+            text-align: right;
+        }
+
+        .amount {
+            
+            font-weight: 600;
+        }
+
+       
+        .notes {
+            margin-top: 5px;
+            padding: 15px 15px 15px 0;
+            
+        }
+
+        .notes h3 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .notes p {
+            margin-bottom: 10px;
+            color: #333;
+            text-align: justify;
+        }
+
+        .bank-details {
+            margin-top: 20px;
+        }
+
+        .bank-section {
+            flex: 1;
+        }
+
+        .bank-section h4 {
+            font-weight: bold;
+            text-decoration: underline;
+            color: #333;
+        }
+
+        .bank-section p {
+            margin-bottom: 5px;
+            color: #333;
+        }
+        td.label{
+            font-weight: 700 !important;
+            color: #333;
+        }
+
+        .label1{
+            width: 25%;
+        }
+
+        .bold{
+            font-weight: 600;
+        }
+        td.blank{
+            border: none;
+        }
+
+        .bg-blue{
+            background-color: #002d5b;
+            color: #fff;
+        }
+        .bg-blue, .amount{
+            text-align: left !important;
+        }
+
+        .logo img{
+height: 90px;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                padding: 0;
+            }
+            
+            .invoice-container {
+                box-shadow: none;
+                margin: 0;
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="invoice-container">
+
+        <div class="logo">
+            <img src="img/dubai-world-trade-centre-vector-logo.png" alt="">
+        </div>
+        <div class="header">
+            <h1>TAX INVOICE</h1>
+            <div class="reference-number">Reference Number: 702863</div>
+        </div>
+
+        <!-- Customer Information -->
+        <table class="info-table">
+            <tr>
+                <td class="label">Received by:</td>
+                <td colspan="3">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="label1">Name:</td>
+                <td class="entry">AHMAD AL MULLA</td>
+                <td class="label1">Job Title:</td>
+                <td class="entry">LEAD AFFAIRS MANAGEMENT</td>
+            </tr>
+            <tr>
+                <td class="label1">Email Address:</td>
+                <td class="entry">ahmad.mulla@aramco.com</td>
+                <td class="label1">Company Name:</td>
+                <td class="entry">Saudi Aramco</td>
+            </tr>
+            <tr>
+                <td class="label1">Your Company VAT Number:</td>
+                <td class="entry">&nbsp;</td>
+                <td class="label1">Country:</td>
+                <td class="entry">Saudi Arabia</td>
+            </tr>
+            <tr>
+                <td class="label1">DWTC VAT Number:</td>
+                <td class="entry">100242618500003</td>
+                <td class="label1">Address:</td>
+                <td class="entry">Saudi Arabia, Dhahran Saudi Aramco</td>
+            </tr>
+            <tr>
+                <td class="label">Transaction Details:</td>
+                <td colspan="3">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="label1">Event Name:</td>
+                <td class="entry">GITEX GLOBAL 2025</td>
+                <td class="label1">Event Date:</td>
+                <td class="entry">13-Oct-2025 TO 17-Oct-2025</td>
+            </tr>
+            <tr>
+                <td class="label1">Registration Reference:</td>
+                <td class="entry">702863</td>
+                <td class="label1">Transaction Date:</td>
+                <td class="entry">20-Aug-2025</td>
+            </tr>
+            <tr>
+                <td class="label1">Payment Reference:</td>
+                <td class="entry">3372b85c-9371-4068-af25-94d9124fbcf3</td>
+                <td class="label1">Payment Status:</td>
+                <td class="entry">Success</td>
+            </tr>
+        </table>
+
+        
+
+
+        <!-- Items Table -->
+        <table class="items-table">
+            <thead>
+                <tr>
+                    <th class="description">Description</th>
+                    <th>Qty</th>
+                    <th>Unit Amount</th>
+                    <th>Net Amount</th>
+                    <th>5% VAT Amount</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="description">AI for Developers Pass</td>
+                    <td>1.00</td>
+                    <td>AED 571.43</td>
+                    <td>AED 600.00</td>
+                    <td>AED 28.57</td>
+                   
+                </tr>
+                <tr>
+                    <td class="blank" colspan="3">&nbsp;</td>
+                <td class="entry bg-blue">Total Excl. VAT</td>
+                <td class="amount">AED 571.43</td>
+            </tr>
+            <tr>
+                <td class="blank" colspan="3">&nbsp;</td>
+                <td class="entry bg-blue">Total 5% VAT</td>
+                <td class="amount">AED 28.57</td>
+            </tr>
+            <tr class="total-row">
+                <td class="blank" colspan="3">&nbsp;</td>
+                <td class="entry bg-blue">Overall Amount</td>
+                <td class="amount">AED 600.00</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <!-- Totals -->
+        <table class="totals-table">
+            
+        </table>
+
+        <!-- Notes Section -->
+        <div class="notes">
+            <h3>NOTES:</h3>
+            <p class="bold">This is a computerized document and hence does not carry any signature. To ensure correct payment for your event, products and service, kindly quote the Event ID number and (or) Tax Invoice number while processing the payments.</p>
+            
+            <p>Cheques/Bankers Drafts should be made payable to Dubai World Trade Centre LLC. Bank Transfer should be made, net of all bank charges to:</p>
+            
+            <div class="bank-details">
+                <div class="bank-section">
+                    <h4>In UAE Dirhams</h4>
+                    <p><span>Beneficiary A/C Name:</span> Dubai World Trade Center LLC.</p>
+                    <p><span>IBAN:</span> AE530260001012002171201</p>
+                    <p><span>Bank:</span> Emirates NBD, Dubai, U.A.E.</p>
+                    <p><span>Swift:</span> EBILAEAD</p>
+                </div>
+                
+                <div class="bank-section">
+                    <h4>In US Dollars</h4>
+                    <p><span>Beneficiary A/C Name:</span> Dubai World Trade Center LLC</p>
+                    <p><span>IBAN:</span> AE220260000512002171202</p>
+                    <p><span>Bank:</span> Emirates NBD, Dubai, U.A.E.</p>
+                    <p><span>Swift:</span> EBILAEAD</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
