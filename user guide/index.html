@@ -5,12 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exhibitor Badging Portal - User Guide</title>
+    <link rel="shortcut icon" href="favicon.png">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://player.vimeo.com/api/player.js"></script>
     <style>
         :root {
             --gradient: linear-gradient(90deg, #9a1909 0%, #ff262a 50%, #580a00 100%);
             --primary-color: #ff262a;
+            --secondary-color:#403e2c ;
         }
 
         * {
@@ -688,6 +690,17 @@
         .bold-text{
             font-weight: 600;   
         }
+          .list-points{
+            list-style: none;
+            padding: 0 !important;
+        }
+
+        .list-points li{
+            font-weight: 400;
+        }
+        .point_head {
+            color: var(--secondary-color)  !important;
+        }
     </style>
 </head>
 
@@ -726,12 +739,23 @@
             </aside>
 
             <main class="content">
-                <!-- Section 1: Dashboard Overview -->
+                   <!-- Section 1: Dashboard Overview -->
                 <section id="section1" class="section active">
-                    <h2>🏠 Section 1: Dashboard Overview</h2>
+                    <h2>🏠 Section 1: Homepage Overview</h2>
 
-                    <p>Welcome to the <strong>Exhibitor Badging Portal</strong> for <strong>GULFOOD 2026</strong>. This guide helps you get started by explaining the features available on the
-                        <strong>Dashboard</strong> - your central hub for managing registrations.</p>
+                    <p>The <strong>Homepage Overview</strong> is your starting point in the Exhibitor Badging Portal.
+                        It provides a <strong>complete summary of all information and instructions</strong> needed for badge registration. From here, exhibitors can quickly understand the badge process, deadlines, issuance steps, and rules before proceeding to individual sections.
+                        <br></p>
+
+                        <h3 class="point_head"><strong>Key Elements on Homepage:</strong></h3>
+                        <ul class="list-points">
+                            <li>🔹 <strong>Registration Methods</strong> – Bulk & Single Registration options</li>
+                            <li>🔹 <strong>Badge Allocation Table</strong> – Number of badges allowed based on stand size</li>
+                            <li>🔹 <strong>Deadline Countdown</strong> – Final date to submit applications (Oct 19, 2025)</li>
+                            <li>🔹 <strong>Print@Home Badge Info</strong> – How and when badges will be available</li>
+                            <li>🔹 <strong>Important Notices</strong> – Rules, age limits, transfer restrictions</li>
+                            <li>🔹 <strong>Support Contact</strong> – For assistance with issues or queries</li>
+                        </ul>
 
                     <div class="screenshot-placeholder">
                         <img src="sec-1.png" alt="">
@@ -755,7 +779,7 @@
                     </div>
 
                     <div class="feature-card">
-                        <h4>🔹 User Guide (Top-Right Sidebar)</h4>
+                        <h4>🔹 User Guide (Left Sidebar)</h4>
                         <p>Click on the <strong>User Guide</strong> button to access a step-by-step walkthrough of all
                             available features, processes in the exhibitor portal</p>
 
@@ -774,21 +798,22 @@
                             <p><strong>Action:</strong> Click to open the badge registration form.</p>
                         </div>
 
-                        <!-- <div class="action-card">
+                        <div class="action-card">
                             <div class="icon">🎟️</div>
-                            <h4>Promo Codes</h4>
-                            <p><strong>Purpose:</strong> View, create, or manage promo codes issued to your organization.</p>
-                            <p><strong>Action:</strong> Click to manage or apply promo codes for discounted or free entries.</p>
-                        </div> -->
+                            <h4>User Guide</h4>
+                         <p><strong>Purpose:</strong> Guide exhibitors in using the portal for badge registration and attendee management.</p>
+<p><strong>Action:</strong> Click to view instructions and tips for creating badges or importing/exporting attendee lists.</p>
+
+                        </div>
                     </div>
 
-                    <div class="info-box">
+                    <!-- <div class="info-box">
                         <h4>🟩 Edit Email Button (Top Right Corner)</h4>
                         <p><strong>Purpose:</strong> Customize the <strong>support contact line</strong> that appears in
                             the footer of system-generated emails.</p>
                         <p><strong>Default Message:</strong></p>
                         <p><em>If you have any questions or require further clarification, please feel free to reach out
-                                to us at <a href="mailto:support@gulfood.com">support@gulfood.com</a></em></p>
+                                to us at <a href="mailto:gfmmarketing@dwtc.com">gfmmarketing@dwtc.com</a></em></p>
                         <p><strong>How It Works:</strong></p>
                         <ul>
                             <li>Click the <strong>Edit Email</strong> button.</li>
@@ -796,11 +821,11 @@
                             <li>Once updated, this email will automatically appear in the footer of registration
                                 confirmation emails or notifications sent through the system.</li>
                         </ul>
-                    </div>
+                    </div> -->
 
-                    <div class="screenshot-placeholder">
+                    <!-- <div class="screenshot-placeholder">
                         <img src="sec-1-2.png" alt="">
-                    </div>
+                    </div> -->
 
                     <div class="success-box">
                         <h4>✅ Tips for Using the Dashboard</h4>
@@ -877,9 +902,8 @@
 
                     <div class="tags">
                         <span class="tag" style="background: #1e293b; color: white;"><strong>➕ Create Single
-                                Entry</strong> — Add one new badge registration manually</span>
-                        <span class="tag" style="background: #0ea5e9; color: white;"><strong>📥 Import Excel
-                                File</strong> — Bulk upload registrations using an Excel template</span>
+                                Badge</strong> — Add one new badge registration manually</span>
+                        <span class="tag" style="background: #0ea5e9; color: white;"><strong>📥 Bulk Upload</strong> — Bulk upload registrations using an Excel template</span>
 
                         <span class="tag" style="background: #22c55e; color: white;"><strong>📤 Export to Excel</strong>
                             — Download all registration data</span>
@@ -920,44 +944,41 @@
                                     <td><strong>Company Name</strong></td>
                                     <td>Organization the attendee represents</td>
                                 </tr>
-                                  <tr>
+                                  <!-- <tr>
                                     <td><strong>Stand Payment</strong></td>
                                     <td>Shows whether the exhibitor’s stand/booth payment is made or pending (Unpaid / Paid).</td>
-                                </tr>
+                                </tr> -->
                                  <tr>
                                     <td><strong>Digital Badge Issue</strong></td>
                                     <td>Indicates whether a digital badge has been issued to the exhibitor (YES / NO).</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Badge Issue</strong></td>
+                                    <td><strong>Onsite Badge Printed</strong></td>
                                     <td>Shows "No" if badge not yet printed, "Yes" if issued</td>
                                 </tr>
                                  <tr>
                                     <td><strong>Ticket Status</strong></td>
                                     <td>Current status (Confirmed, Cancelled, etc.) with timestamp</td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <td><strong>Download Email</strong></td>
                                     <td>Download a copy of the confirmation email sent to the exhibitor for record-keeping or offline sharing.</td>
                                 </tr>
-
                                 <tr>
                                     <td><strong>Download Badge</strong></td>
                                     <td>Downloads the exhibitor’s badge (when the badge is issued).</td>
                                 </tr>
- 
-                                
                                 <tr>
                                     <td><strong>Action</strong></td>
                                     <td>Three-dot menu for additional actions</td>
-                                </tr>
+                                </tr> -->
                                 
                             </tbody>
                         </table>
                     </div>
 
-                    <h4>🧩 Action Menu Options (Three Dots)</h4>
-                    <p>Click the three dots (⋮) in the Action column to access these options:</p>
+                    <h4>🧩 Action Menu</h4>
+                    <p>Access these options in the action column:</p>
 
                     <div class="table-container">
                         <table>
@@ -973,13 +994,23 @@
                                     <td>Update or modify the exhibitor’s registration details (e.g., job title, company, etc.) after confirmation.</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Download Confirmation Email</strong></td>
-                                    <td>Download a copy of the confirmation email sent to the exhibitor for record-keeping or offline sharing.</td>
+                                    <td><strong>Cancel</strong></td>
+                                    <td>Cancel the exhibitor’s registration after confirmation</td>
                                 </tr>
-                                <tr>
+                                 <tr>
                                     <td><strong>Resend Confirmation Email</strong></td>
                                     <td>Resend the confirmation email to the exhibitor in case they didn’t receive it or require a fresh copy.</td>
                                 </tr>
+                                <tr>
+                                    <td><strong>Download Confirmation Email</strong></td>
+                                    <td>Download a copy of the confirmation email sent to the exhibitor for record-keeping or offline sharing.</td>
+                                </tr>
+
+                                <tr>
+                                    <td><strong>Download Badge</strong></td>
+                                    <td>Download a copy of the Badge confirmation email <span class="bold-text">(once the badge is released)</span> sent to the exhibitor for record-keeping or offline sharing.</td>
+                                </tr>
+                               
                                 
                                 
                             </tbody>
@@ -997,9 +1028,9 @@
                     <div class="success-box">
                         <h4>✅ Quick Tips</h4>
                         <ul>
-                            <li>Use <strong>Create Single Entry</strong> when you have complete details for one person
+                            <li>Use <strong>Create Single Badge</strong> when you have complete details for one person
                             </li>
-                            <li>Use <strong>Import Excel File</strong> for bulk registrations - download the template
+                            <li>Use <strong>Bulk Upload</strong> for bulk registrations - download the template
                                 first</li>
                             <li>Monitor the timestamp in Ticket Status to track recent activities</li>
                             <li>Search functionality (top right) helps find specific registrations quickly</li>
@@ -1008,7 +1039,7 @@
                 </section>
                 <!-- Section 2: Badge Management Page -->
 
-                <!-- Section 3: Import Export -->
+                <!-- Section 3: Promo Code Management -->
                 <section id="section3" class="section">
 
                     <div class="header-title">
@@ -1028,8 +1059,8 @@
                     <div class="feature-card">
                         <h4>Step 1: Access Import & Download Template:</h4>
                         <ul>
-                            <li>Go to the <span class="bold-text">Registrations</span> section. </li>
-                            <li>Click on Import <span class="bold-text">Excel File.</span> </li>
+                            <li>Go to the <span class="bold-text">Badges</span> section. </li>
+                            <li>Click on <span class="bold-text">Bulk upload</span> </li>
                             <li>A popup window will appear with two options: </li>
                             <ul>
                                 <li>Upload Your Excel File </li>
@@ -1149,9 +1180,9 @@
 
 
                 </section>
-                <!-- Section 3: Import Export -->
+                <!-- Section 3: Promo Code Management -->
 
-                <!-- Section 4: Badge Entry -->
+                <!-- Section 4: Broadcast Promo Code -->
                 <section id="section4" class="section">
                     <h2>📤 Section 4: How to Create a Single Badge Entry </h2>
 
@@ -1168,15 +1199,15 @@
                                 entries. </li>
                         </ul>
                         <div class="screenshot-placeholder image-left">
-                            <img src="sec-1.png" alt="">
+                            <img src="Badge-management_____Revised.png" alt="">
                         </div>
                     </div>
 
                     <div class="feature-card">
-                        <h4>Step 2: Click on Create Single Entry </h4>
+                        <h4>Step 2: Click on Create Single Badge </h4>
 
                         <ul>
-                            <li>On the Registrations page, click the Create Single Entry button. </li>
+                            <li>On the Registrations page, click the Create Single  Badge button. </li>
                             <li>This will open a form where you can manually enter attendee details. </li>
                         </ul>
                         <div class="screenshot-placeholder image-left">
@@ -1229,9 +1260,9 @@
                     </div>
 
                 </section>
-                <!-- Section 4: Badge Entry -->
+                <!-- Section 4: Broadcast Promo Code -->
 
-                <!-- Section 3: Promo Code Management -->
+                <!-- Section 5: Promo Code Management -->
                 <section id="section5" class="section">
 
                     <div class="header-title">
@@ -1409,9 +1440,9 @@
                         <p>Use the search box on the top right to quickly find specific promo codes by name or code value. This is especially helpful when managing multiple promo codes.</p>
                     </div>
                 </section>
-                <!-- Section 3: Promo Code Management -->
+                <!-- Section 5: Promo Code Management -->
 
-                <!-- Section 4: Broadcast Promo Code -->
+                <!-- Section 6: Broadcast Promo Code -->
                 <section id="section6" class="section">
                     <h2>📤 Section 6: Broadcast Promo Code — Invitation Modal</h2>
                     
@@ -1525,6 +1556,7 @@
                             <p>After clicking your chosen button type, the invitations will be sent automatically.</p>
                             <p>Or click <strong>✕ Close</strong> to cancel without sending.</p>
                         </div>
+                        
                     </div>
                     
                     <div class="success-box">
@@ -1544,9 +1576,9 @@
                     </div>
 
                 </section>
-                <!-- Section 4: Broadcast Promo Code -->
+                <!-- Section 6: Broadcast Promo Code -->
 
-                <!-- Section 5: Promo Code Usage Logs -->
+                <!-- Section 7: Promo Code Usage Logs -->
                 <section id="section7" class="section">
                     <h2>📊 Section 7: Promo Code Usage Logs — Detailed View</h2>
                     
@@ -1651,9 +1683,7 @@
                         </ul>
                     </div>
                 </section>
-                <!-- Section 5: Promo Code Usage Logs -->
-
-
+                <!-- Section 7: Promo Code Usage Logs -->
         </main>
     </div>
     </div>
